@@ -1,0 +1,12 @@
+D:\Users\gabri\source\repos\TareaClase\JWTApi\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Users\gabri\source\repos\TareaClase\JWTApi\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Users\gabri\source\repos\TareaClase\JWTApi\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Users\gabri\source\repos\TareaClase\JWTApi\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\gabri\source\repos\TareaClase\JWTApi\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Users\gabri\source\repos\TareaClase\JWTApi\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Users\gabri\source\repos\TareaClase\JWTApi\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Users\gabri\source\repos\TareaClase\JWTApi\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+D:\Users\gabri\source\repos\TareaClase\JWTApi\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Users\gabri\source\repos\TareaClase\JWTApi\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Users\gabri\source\repos\TareaClase\JWTApi\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Users\gabri\source\repos\TareaClase\JWTApi\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
