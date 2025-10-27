@@ -14,3 +14,5 @@ D:\Users\gabri\source\repos\TareaClase\JWTApi\Application\obj\Debug\net8.0\Appli
 D:\Users\gabri\source\repos\TareaClase\JWTApi\Application\obj\Debug\net8.0\refint\Application.dll
 D:\Users\gabri\source\repos\TareaClase\JWTApi\Application\obj\Debug\net8.0\Application.pdb
 D:\Users\gabri\source\repos\TareaClase\JWTApi\Application\obj\Debug\net8.0\ref\Application.dll
+D:\Users\gabri\source\repos\TareaClase\JWTApi\Application\bin\Debug\net8.0\Application.runtimeconfig.json
+D:\Users\gabri\source\repos\TareaClase\JWTApi\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache

@@ -10,3 +10,6 @@ D:\Users\gabri\source\repos\TareaClase\JWTApi\Infrastructure\obj\Debug\net8.0\In
 D:\Users\gabri\source\repos\TareaClase\JWTApi\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 D:\Users\gabri\source\repos\TareaClase\JWTApi\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 D:\Users\gabri\source\repos\TareaClase\JWTApi\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Users\gabri\source\repos\TareaClase\JWTApi\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Users\gabri\source\repos\TareaClase\JWTApi\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\Users\gabri\source\repos\TareaClase\JWTApi\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
